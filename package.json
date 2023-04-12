@@ -1,0 +1,37 @@
+{
+  "name": "challenge-04",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  },
+  "main": "counter.js",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "esbuild": "^0.17.15",
+    "express": "^4.18.2",
+    "function-bind": "^1.1.1",
+    "has": "^1.0.3",
+    "is-core-module": "^2.11.0",
+    "nanoid": "^3.3.6",
+    "nodemon": "^2.0.22",
+    "path-parse": "^1.0.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.21",
+    "resolve": "^1.22.2",
+    "rollup": "^3.20.2",
+    "sequelize": "^6.31.0",
+    "source-map-js": "^1.0.2",
+    "supports-preserve-symlinks-flag": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
