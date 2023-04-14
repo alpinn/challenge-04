@@ -1,5 +1,5 @@
 const { save } = require("../../db/cars.js");
-const carsJson = require("../db/cars.json");
+const carsJson = require("../../db/cars.js");
 
 class Car {
   static listCar = carsJson;
